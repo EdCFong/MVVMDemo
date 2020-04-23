@@ -23,6 +23,7 @@ namespace MVVMDemo.Views
         public StudentView()
         {
             InitializeComponent();
+            
         }
     }
 }
